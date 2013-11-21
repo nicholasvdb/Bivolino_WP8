@@ -1,0 +1,209 @@
+c:\users\werelds_\documents\visual studio 2012\Projects\BivoApp\BivoApp\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\werelds_\documents\visual studio 2012\Projects\BivoApp\BivoApp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\werelds_\documents\visual studio 2012\Projects\BivoApp\BivoApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\werelds_\documents\visual studio 2012\Projects\BivoApp\BivoApp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\werelds_\documents\visual studio 2012\Projects\BivoApp\BivoApp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\werelds_\documents\visual studio 2012\Projects\BivoApp\BivoApp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\werelds_\documents\visual studio 2012\Projects\BivoApp\BivoApp\Bin\Debug\BivoApp.dll
+c:\users\werelds_\documents\visual studio 2012\Projects\BivoApp\BivoApp\Bin\Debug\BivoApp.pdb
+c:\users\werelds_\documents\visual studio 2012\Projects\BivoApp\BivoApp\Bin\Debug\AppManifest.xaml
+c:\users\werelds_\documents\visual studio 2012\Projects\BivoApp\BivoApp\Bin\Debug\BivoApp_Debug_AnyCPU.xap
+c:\users\werelds_\documents\visual studio 2012\Projects\BivoApp\BivoApp\obj\Debug\App.g.cs
+c:\users\werelds_\documents\visual studio 2012\Projects\BivoApp\BivoApp\obj\Debug\MainPage.g.cs
+c:\users\werelds_\documents\visual studio 2012\Projects\BivoApp\BivoApp\obj\Debug\BivoApp.g.resources
+c:\users\werelds_\documents\visual studio 2012\Projects\BivoApp\BivoApp\obj\Debug\BivoApp.Resources.AppResources.resources
+c:\users\werelds_\documents\visual studio 2012\Projects\BivoApp\BivoApp\obj\Debug\BivoApp.csproj.GenerateResource.Cache
+c:\users\werelds_\documents\visual studio 2012\Projects\BivoApp\BivoApp\obj\Debug\BivoApp.dll
+c:\users\werelds_\documents\visual studio 2012\Projects\BivoApp\BivoApp\obj\Debug\BivoApp.pdb
+c:\users\werelds_\documents\visual studio 2012\Projects\BivoApp\BivoApp\obj\Debug\XapCacheFile.xml
+c:\users\werelds_\documents\visual studio 2012\Projects\BivoApp\BivoApp\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+c:\users\werelds_\documents\visual studio 2012\Projects\BivoApp\BivoApp\obj\Debug\BivoApp.csprojResolveAssemblyReference.cache
+C:\Users\Nicholas\Downloads\BivoApp\BivoApp\BivoApp\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Nicholas\Downloads\BivoApp\BivoApp\BivoApp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Nicholas\Downloads\BivoApp\BivoApp\BivoApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Nicholas\Downloads\BivoApp\BivoApp\BivoApp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Nicholas\Downloads\BivoApp\BivoApp\BivoApp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Nicholas\Downloads\BivoApp\BivoApp\BivoApp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Nicholas\Downloads\BivoApp\BivoApp\BivoApp\Bin\Debug\BivoApp.dll
+C:\Users\Nicholas\Downloads\BivoApp\BivoApp\BivoApp\Bin\Debug\BivoApp.pdb
+C:\Users\Nicholas\Downloads\BivoApp\BivoApp\BivoApp\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Nicholas\Downloads\BivoApp\BivoApp\BivoApp\obj\Debug\BivoApp.csprojResolveAssemblyReference.cache
+C:\Users\Nicholas\Downloads\BivoApp\BivoApp\BivoApp\obj\Debug\App.g.cs
+C:\Users\Nicholas\Downloads\BivoApp\BivoApp\BivoApp\obj\Debug\MainPage.g.cs
+C:\Users\Nicholas\Downloads\BivoApp\BivoApp\BivoApp\obj\Debug\BivoApp.g.resources
+C:\Users\Nicholas\Downloads\BivoApp\BivoApp\BivoApp\obj\Debug\BivoApp.Resources.AppResources.resources
+C:\Users\Nicholas\Downloads\BivoApp\BivoApp\BivoApp\obj\Debug\BivoApp.csproj.GenerateResource.Cache
+C:\Users\Nicholas\Downloads\BivoApp\BivoApp\BivoApp\obj\Debug\BivoApp.dll
+C:\Users\Nicholas\Downloads\BivoApp\BivoApp\BivoApp\obj\Debug\BivoApp.pdb
+C:\Users\Nicholas\Documents\Visual Studio 2012\Projects\BivoApp\BivoApp\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Nicholas\Documents\Visual Studio 2012\Projects\BivoApp\BivoApp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Nicholas\Documents\Visual Studio 2012\Projects\BivoApp\BivoApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Nicholas\Documents\Visual Studio 2012\Projects\BivoApp\BivoApp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Nicholas\Documents\Visual Studio 2012\Projects\BivoApp\BivoApp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Nicholas\Documents\Visual Studio 2012\Projects\BivoApp\BivoApp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Nicholas\Documents\Visual Studio 2012\Projects\BivoApp\BivoApp\Bin\Debug\BivoApp.dll
+C:\Users\Nicholas\Documents\Visual Studio 2012\Projects\BivoApp\BivoApp\Bin\Debug\BivoApp.pdb
+C:\Users\Nicholas\Documents\Visual Studio 2012\Projects\BivoApp\BivoApp\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Nicholas\Documents\Visual Studio 2012\Projects\BivoApp\BivoApp\obj\Debug\App.g.cs
+C:\Users\Nicholas\Documents\Visual Studio 2012\Projects\BivoApp\BivoApp\obj\Debug\MainPage.g.cs
+C:\Users\Nicholas\Documents\Visual Studio 2012\Projects\BivoApp\BivoApp\obj\Debug\BivoApp.g.resources
+C:\Users\Nicholas\Documents\Visual Studio 2012\Projects\BivoApp\BivoApp\obj\Debug\BivoApp.Resources.AppResources.resources
+C:\Users\Nicholas\Documents\Visual Studio 2012\Projects\BivoApp\BivoApp\obj\Debug\BivoApp.csproj.GenerateResource.Cache
+C:\Users\Nicholas\Documents\Visual Studio 2012\Projects\BivoApp\BivoApp\obj\Debug\BivoApp.dll
+C:\Users\Nicholas\Documents\Visual Studio 2012\Projects\BivoApp\BivoApp\obj\Debug\BivoApp.pdb
+C:\Users\Nicholas\Documents\Visual Studio 2012\Projects\BivoApp\BivoApp\Bin\Debug\AppManifest.xaml
+C:\Users\Nicholas\Documents\Visual Studio 2012\Projects\BivoApp\BivoApp\Bin\Debug\BivoApp_Debug_AnyCPU.xap
+C:\Users\Nicholas\Documents\Visual Studio 2012\Projects\BivoApp\BivoApp\obj\Debug\XapCacheFile.xml
+C:\Users\Nicholas\Documents\Visual Studio 2012\Projects\BivoApp\BivoApp\obj\Debug\ResultPage.g.cs
+C:\Users\Nicholas\Documents\Visual Studio 2012\Projects\BivoApp\BivoApp\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Nicholas\Documents\Visual Studio 2012\Projects\BivoApp\BivoApp\obj\Debug\RegisterPage.g.cs
+C:\Users\Nicholas\Documents\Visual Studio 2012\Projects\BivoApp\BivoApp\obj\Debug\BivoApp.csprojResolveAssemblyReference.cache
+C:\Users\Nicholas\Documents\Visual Studio 2012\Projects\BivoApp\BivoApp\obj\Debug\Page2.g.cs
+C:\Users\Nicholas\Documents\Visual Studio 2012\Projects\BivoApp\BivoApp\Bin\Debug\WindowsPhonePostClient.dll
+C:\Users\Nicholas\Documents\Visual Studio 2012\Projects\BivoApp\BivoApp\Bin\Debug\WindowsPhonePostClient.pdb
+C:\Users\Nicholas\Documents\Visual Studio 2012\Projects\BivoApp\BivoApp\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nicholas\Documents\Visual Studio 2012\Projects\BivoApp\BivoApp\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Werelds_\Desktop\BivoApp_31_05_8.55\BivoApp\BivoApp\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Werelds_\Desktop\BivoApp_31_05_8.55\BivoApp\BivoApp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Werelds_\Desktop\BivoApp_31_05_8.55\BivoApp\BivoApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Werelds_\Desktop\BivoApp_31_05_8.55\BivoApp\BivoApp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Werelds_\Desktop\BivoApp_31_05_8.55\BivoApp\BivoApp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Werelds_\Desktop\BivoApp_31_05_8.55\BivoApp\BivoApp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Werelds_\Desktop\BivoApp_31_05_8.55\BivoApp\BivoApp\Bin\Debug\BivoApp.dll
+C:\Users\Werelds_\Desktop\BivoApp_31_05_8.55\BivoApp\BivoApp\Bin\Debug\BivoApp.pdb
+C:\Users\Werelds_\Desktop\BivoApp_31_05_8.55\BivoApp\BivoApp\Bin\Debug\AppManifest.xaml
+C:\Users\Werelds_\Desktop\BivoApp_31_05_8.55\BivoApp\BivoApp\Bin\Debug\BivoApp_Debug_AnyCPU.xap
+C:\Users\Werelds_\Desktop\BivoApp_31_05_8.55\BivoApp\BivoApp\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Werelds_\Desktop\BivoApp_31_05_8.55\BivoApp\BivoApp\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Werelds_\Desktop\BivoApp_31_05_8.55\BivoApp\BivoApp\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Werelds_\Desktop\BivoApp_31_05_8.55\BivoApp\BivoApp\Bin\Debug\WindowsPhonePostClient.dll
+C:\Users\Werelds_\Desktop\BivoApp_31_05_8.55\BivoApp\BivoApp\Bin\Debug\WindowsPhonePostClient.pdb
+C:\Users\Werelds_\Desktop\BivoApp_31_05_8.55\BivoApp\BivoApp\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Werelds_\Desktop\BivoApp_31_05_8.55\BivoApp\BivoApp\obj\Debug\BivoApp.csprojResolveAssemblyReference.cache
+C:\Users\Werelds_\Desktop\BivoApp_31_05_8.55\BivoApp\BivoApp\obj\Debug\App.g.cs
+C:\Users\Werelds_\Desktop\BivoApp_31_05_8.55\BivoApp\BivoApp\obj\Debug\MainPage.g.cs
+C:\Users\Werelds_\Desktop\BivoApp_31_05_8.55\BivoApp\BivoApp\obj\Debug\Page2.g.cs
+C:\Users\Werelds_\Desktop\BivoApp_31_05_8.55\BivoApp\BivoApp\obj\Debug\RegisterPage.g.cs
+C:\Users\Werelds_\Desktop\BivoApp_31_05_8.55\BivoApp\BivoApp\obj\Debug\ResultPage.g.cs
+C:\Users\Werelds_\Desktop\BivoApp_31_05_8.55\BivoApp\BivoApp\obj\Debug\BivoApp.g.resources
+C:\Users\Werelds_\Desktop\BivoApp_31_05_8.55\BivoApp\BivoApp\obj\Debug\BivoApp.Resources.AppResources.resources
+C:\Users\Werelds_\Desktop\BivoApp_31_05_8.55\BivoApp\BivoApp\obj\Debug\BivoApp.csproj.GenerateResource.Cache
+C:\Users\Werelds_\Desktop\BivoApp_31_05_8.55\BivoApp\BivoApp\obj\Debug\BivoApp.dll
+C:\Users\Werelds_\Desktop\BivoApp_31_05_8.55\BivoApp\BivoApp\obj\Debug\BivoApp.pdb
+C:\Users\Werelds_\Desktop\BivoApp_31_05_8.55\BivoApp\BivoApp\obj\Debug\XapCacheFile.xml
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\BivoApp.dll
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\BivoApp.pdb
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\WindowsPhonePostClient.dll
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\WindowsPhonePostClient.pdb
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\obj\Debug\BivoApp.csprojResolveAssemblyReference.cache
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\obj\Debug\App.g.cs
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\obj\Debug\MainPage.g.cs
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\obj\Debug\RegisterPage.g.cs
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\obj\Debug\ResultPage.g.cs
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\obj\Debug\BivoApp.g.resources
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\obj\Debug\BivoApp.Resources.AppResources.resources
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\obj\Debug\BivoApp.csproj.GenerateResource.Cache
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\obj\Debug\BivoApp.dll
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\obj\Debug\BivoApp.pdb
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\AppManifest.xaml
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\BivoApp_Debug_AnyCPU.xap
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\obj\Debug\XapCacheFile.xml
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\obj\Debug\ImagePopup.g.cs
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\obj\Debug\SettingsPopup.g.cs
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\Images\Popups\arm_female.png
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\Images\Popups\arm_male.png
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\Images\Popups\back_female.png
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\Images\Popups\back_male.png
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\Images\Popups\belly_male.png
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\Images\Popups\chest_male.png
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\Images\Popups\collar_male.png
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\Images\Popups\col_female.png
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\Images\Popups\hip_female.png
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\Images\Popups\hip_girl.png
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\Images\Popups\shoulder_female.png
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\Images\Popups\shoulder_male.png
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\Images\Popups\sleeve_female.png
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\Images\Popups\sleeve_male.png
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\Images\Popups\underbust.png
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\Images\Popups\upperbust.png
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\Images\Popups\waist_female.png
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\Images\Popups\waist_male.png
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\Images\Popups\wrist_female.png
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\Images\Popups\wrist_male.png
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\obj\Debug\AboutPage.g.cs
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\obj\Debug\PasswordPopup.g.cs
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\obj\Debug\LogoutPopup.g.cs
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\Coding4Fun.Toolkit.Audio.dll
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\Coding4Fun.Toolkit.Controls.dll
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\Coding4Fun.Toolkit.Net.dll
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\Coding4Fun.Toolkit.Storage.dll
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\JeffWilcox.PhoneThemeManager.dll
+C:\Users\Nicholas\Desktop\BivoApp_03_06_8.55\BivoApp\BivoApp\Bin\Debug\JeffWilcox.PhoneThemeManager.pdb
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\Images\Popups\arm_female.png
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\Images\Popups\arm_male.png
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\Images\Popups\back_female.png
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\Images\Popups\back_male.png
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\Images\Popups\belly_male.png
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\Images\Popups\chest_male.png
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\Images\Popups\collar_male.png
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\Images\Popups\col_female.png
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\Images\Popups\hip_female.png
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\Images\Popups\hip_girl.png
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\Images\Popups\shoulder_female.png
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\Images\Popups\shoulder_male.png
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\Images\Popups\sleeve_female.png
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\Images\Popups\sleeve_male.png
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\Images\Popups\underbust.png
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\Images\Popups\upperbust.png
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\Images\Popups\waist_female.png
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\Images\Popups\waist_male.png
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\Images\Popups\wrist_female.png
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\Images\Popups\wrist_male.png
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\BivoApp.dll
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\BivoApp.pdb
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\AppManifest.xaml
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\BivoApp_Debug_AnyCPU.xap
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\Coding4Fun.Toolkit.Audio.dll
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\Coding4Fun.Toolkit.Controls.dll
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\Coding4Fun.Toolkit.Net.dll
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\Coding4Fun.Toolkit.Storage.dll
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\JeffWilcox.PhoneThemeManager.dll
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\WindowsPhonePostClient.dll
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\WindowsPhonePostClient.pdb
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\JeffWilcox.PhoneThemeManager.pdb
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\obj\Debug\App.g.cs
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\obj\Debug\AboutPage.g.cs
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\obj\Debug\ImagePopup.g.cs
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\obj\Debug\LogoutPopup.g.cs
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\obj\Debug\MainPage.g.cs
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\obj\Debug\PasswordPopup.g.cs
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\obj\Debug\SettingsPopup.g.cs
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\obj\Debug\RegisterPage.g.cs
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\obj\Debug\ResultPage.g.cs
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\obj\Debug\BivoApp.g.resources
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\obj\Debug\BivoApp.Resources.AppResources.resources
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\obj\Debug\BivoApp.csproj.GenerateResource.Cache
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\obj\Debug\BivoApp.dll
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\obj\Debug\BivoApp.pdb
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\obj\Debug\XapCacheFile.xml
+C:\Users\Werelds_\Desktop\BivoApp_6_06\BivoApp\BivoApp\obj\Debug\BivoApp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Vangos\Projects\WindowsPhonePostClient\WindowsPhonePostClient\Bin\Release\WindowsPhonePostClient.dll
+C:\Users\Vangos\Projects\WindowsPhonePostClient\WindowsPhonePostClient\Bin\Release\WindowsPhonePostClient.pdb
+C:\Users\Vangos\Projects\WindowsPhonePostClient\WindowsPhonePostClient\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vangos\Projects\WindowsPhonePostClient\WindowsPhonePostClient\obj\Release\WindowsPhonePostClient.dll
+C:\Users\Vangos\Projects\WindowsPhonePostClient\WindowsPhonePostClient\obj\Release\WindowsPhonePostClient.pdb

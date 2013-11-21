@@ -1,0 +1,250 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="BivoApp.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+   xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DataContext="{d:DesignData SampleData/MainViewModelSampleData.xaml}"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <phone:PhoneApplicationPage.Resources>
+
+        
+ <DataTemplate x:Name="HeightItemTemplate">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="{Binding Height}" Margin="10 0 0 0"/>
+            </StackPanel>
+        </DataTemplate>
+        <DataTemplate x:Name="WeightItemTemplate">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="{Binding Weight}" Margin="10 0 0 0"/>
+            </StackPanel>
+        </DataTemplate>
+        <DataTemplate x:Name="AgeItemTemplate">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="{Binding Age}" Margin="10 0 0 0"/>
+            </StackPanel>
+        </DataTemplate>
+        <DataTemplate x:Name="CollarSizeItemTemplate">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="{Binding CollarSize}" Margin="10 0 0 0"/>
+            </StackPanel>
+        </DataTemplate>
+
+        <DataTemplate x:Name="CupSizeItemTemplate">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="{Binding CupSize}" Margin="10 0 0 0"/>
+            </StackPanel>
+        </DataTemplate>
+        <DataTemplate x:Name="ArmLengthItemTemplate">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="{Binding ArmLength}" Margin="10 0 0 0"/>
+            </StackPanel>
+        </DataTemplate>
+        <DataTemplate x:Name="HipSizeItemTemplate">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="{Binding HipSize}" Margin="10 0 0 0"/>
+            </StackPanel>
+        </DataTemplate>
+        <DataTemplate x:Name="WaistSizeItemTemplate">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="{Binding WaistSize}" Margin="10 0 0 0"/>
+            </StackPanel>
+        </DataTemplate>
+
+
+        <DataTemplate x:Name="HeightFullModeItemTemplate">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="{Binding Height}" Height="100" FontSize="40" Margin="10 0 0 0"/>
+            </StackPanel>
+        </DataTemplate>
+        <DataTemplate x:Name="WeightFullModeItemTemplate">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="{Binding Weight}" Height="100" FontSize="40" Margin="10 0 0 0"/>
+            </StackPanel>
+        </DataTemplate>
+        <DataTemplate x:Name="AgeFullModeItemTemplate">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="{Binding Age}" Height="100" FontSize="40" Margin="10 0 0 0"/>
+            </StackPanel>
+        </DataTemplate>
+        <DataTemplate x:Name="CollarSizeFullModeItemTemplate">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="{Binding CollarSize}" Height="100" FontSize="40" Margin="10 0 0 0"/>
+            </StackPanel>
+        </DataTemplate>
+        <DataTemplate x:Name="CupSizeFullModeItemTemplate">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="{Binding CupSize}" Height="100" FontSize="40" Margin="10 0 0 0"/>
+            </StackPanel>
+        </DataTemplate>
+
+        <DataTemplate x:Name="HipSizeFullModeItemTemplate">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="{Binding HipSize}" Height="100" FontSize="40" Margin="10 0 0 0"/>
+            </StackPanel>
+        </DataTemplate>
+        <DataTemplate x:Name="WaistSizeFullModeItemTemplate">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="{Binding WaistSize}" Height="100" FontSize="40" Margin="10 0 0 0"/>
+            </StackPanel>
+        </DataTemplate>
+
+        <DataTemplate x:Name="ArmLengthFullModeItemTemplate">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="{Binding ArmLength}" Height="100" FontSize="40" Margin="10 0 0 0"/>
+            </StackPanel>
+        </DataTemplate>
+
+    </phone:PhoneApplicationPage.Resources>
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="80"/>
+        </Grid.RowDefinitions>
+        <Image Source="/Assets/header_logo.png" Stretch="Fill" />
+
+        <!--Pivot Control-->
+        <phone:Pivot x:Name="PivotInput" Grid.Row="1" Background="#6BCBCBC6">
+            <!--Pivot item one-->
+            <phone:PivotItem>
+                <phone:PivotItem.Header>
+                    <TextBlock Text="Male" Foreground="Orange" />
+                </phone:PivotItem.Header>
+                <ScrollViewer >
+                    <!--Double line list with text wrapping-->
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="165" />
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="90"/>
+                            <RowDefinition Height="90"/>
+                            <RowDefinition Height="90"/>
+                            <RowDefinition Height="90"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+
+                        <Grid Grid.Column="1">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition />
+                                <ColumnDefinition x:Name="inchColumn"/>
+                            </Grid.ColumnDefinitions>
+
+
+
+                            <toolkit:ListPicker  Background="#6BCBCBC6" Foreground="Black"  BorderBrush="Black" x:Name="height1Male" ItemTemplate="{StaticResource HeightItemTemplate}" FullModeItemTemplate="{StaticResource HeightFullModeItemTemplate}" Grid.Column="0"  Grid.Row="0" ExpansionMode="FullScreenOnly" FullModeHeader="Select Height" ScrollViewer.VerticalScrollBarVisibility="Auto"/>
+                            <toolkit:ListPicker Background="#6BCBCBC6" Foreground="Black" BorderBrush="Black" x:Name="height2Male" ItemTemplate="{StaticResource HeightItemTemplate}" FullModeItemTemplate="{StaticResource HeightFullModeItemTemplate}" Grid.Column="1"  Grid.Row="0" ExpansionMode="FullScreenOnly" FullModeHeader="Select Height" ScrollViewer.VerticalScrollBarVisibility="Auto"/>
+
+                        </Grid>
+
+
+                        <toolkit:ListPicker Background="#6BCBCBC6" Foreground="Black" BorderBrush="Black"  x:Name="weightMale" ItemTemplate="{StaticResource WeightItemTemplate}" FullModeItemTemplate="{StaticResource WeightFullModeItemTemplate}" Grid.Column="1" Grid.Row="1" ExpansionMode="FullScreenOnly" FullModeHeader="Select Weight"/>
+                        <toolkit:ListPicker Background="#6BCBCBC6" Foreground="Black" BorderBrush="Black" x:Name="ageMale" ItemTemplate="{StaticResource AgeItemTemplate}" FullModeItemTemplate="{StaticResource AgeFullModeItemTemplate}" Grid.Column="1" Grid.Row="2" ExpansionMode="FullScreenOnly" FullModeHeader="Select Age"/>
+                        <toolkit:ListPicker Background="#6BCBCBC6" Foreground="Black" BorderBrush="Black" x:Name="collarSizeMale" ItemTemplate="{StaticResource CollarSizeItemTemplate}" FullModeItemTemplate="{StaticResource CollarSizeFullModeItemTemplate}" Grid.Column="1" Grid.Row="3" ExpansionMode="FullScreenOnly" FullModeHeader="Select Collar Size"/>
+
+
+                        <TextBlock Style="{StaticResource PhoneTextNormalStyle}" FontSize="28" Foreground="Black" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Height" VerticalAlignment="Center"/>
+                        <TextBlock Style="{StaticResource PhoneTextNormalStyle}" FontSize="28" Foreground="Black"  HorizontalAlignment="Left" Grid.Row="1" TextWrapping="Wrap" Text="Weight" VerticalAlignment="Center"/>
+                        <TextBlock Style="{StaticResource PhoneTextNormalStyle}" FontSize="28" Foreground="Black" HorizontalAlignment="Left" Grid.Row="2" TextWrapping="Wrap" Text="Age" VerticalAlignment="Center"/>
+                        <TextBlock Style="{StaticResource PhoneTextNormalStyle}" FontSize="28" Foreground="Black" HorizontalAlignment="Left" Grid.Row="3" TextWrapping="Wrap" Text="Collar size" VerticalAlignment="Center"/>
+                    </Grid>
+                </ScrollViewer>
+            </phone:PivotItem>
+
+            <!--Pivot item two-->
+            <phone:PivotItem>
+                <phone:PivotItem.Header>
+                    <TextBlock Text="Female" Foreground="Orange" />
+                </phone:PivotItem.Header>
+                <ScrollViewer>
+
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="165"/>
+                            <ColumnDefinition/>
+
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="90"/>
+                            <RowDefinition Height="90"/>
+                            <RowDefinition Height="90"/>
+                            <RowDefinition Height="90"/>
+                            <RowDefinition Height="90"/>
+                            <RowDefinition Height="90"/>
+                            <RowDefinition Height="90"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+
+                        <Grid Grid.Column="1">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition/>
+                                <ColumnDefinition  x:Name="inchColumnFemale"/>
+                            </Grid.ColumnDefinitions>
+
+                            <toolkit:ListPicker Foreground="Black" Background="#6BCBCBC6" BorderBrush="Black" x:Name="height1Female" ItemTemplate="{StaticResource HeightItemTemplate}" FullModeItemTemplate="{StaticResource HeightFullModeItemTemplate}" Grid.Column="0"  Grid.Row="0" ExpansionMode="FullScreenOnly" FullModeHeader="Select Height" ScrollViewer.VerticalScrollBarVisibility="Auto"/>
+                            <toolkit:ListPicker Foreground="Black" Background="#6BCBCBC6" BorderBrush="Black" x:Name="height2Female" ItemTemplate="{StaticResource HeightItemTemplate}" FullModeItemTemplate="{StaticResource HeightFullModeItemTemplate}" Grid.Column="1"  Grid.Row="0" ExpansionMode="FullScreenOnly" FullModeHeader="Select Height" ScrollViewer.VerticalScrollBarVisibility="Auto"/>
+
+                        </Grid>
+
+
+                        <toolkit:ListPicker Foreground="Black" Background="#6BCBCBC6" BorderBrush="Black"  x:Name="weightFemale" ItemTemplate="{StaticResource WeightItemTemplate}" FullModeItemTemplate="{StaticResource WeightFullModeItemTemplate}" Grid.Column="1" Grid.Row="1" ExpansionMode="FullScreenOnly" FullModeHeader="Select Weight"/>
+                        <toolkit:ListPicker Foreground="Black" Background="#6BCBCBC6" BorderBrush="Black" x:Name="ageFemale" ItemTemplate="{StaticResource AgeItemTemplate}" FullModeItemTemplate="{StaticResource AgeFullModeItemTemplate}" Grid.Column="1" Grid.Row="2" ExpansionMode="FullScreenOnly" FullModeHeader="Select Age"/>
+
+                        <Grid Grid.Row="3" Grid.Column="1">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition />
+                                <ColumnDefinition />
+
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="90"/>
+                            </Grid.RowDefinitions>
+                            <toolkit:ListPicker Foreground="Black" Background="#6BCBCBC6" BorderBrush="Black" x:Name="bustFemale" ItemTemplate="{StaticResource CupSizeItemTemplate}" FullModeItemTemplate="{StaticResource CupSizeFullModeItemTemplate}" Grid.Column="0" Grid.Row="0" ExpansionMode="FullScreenOnly" FullModeHeader="Select Collar Size"/>
+                            <toolkit:ListPicker Foreground="Black" Background="#6BCBCBC6" BorderBrush="Black" x:Name="cupFemale" ItemTemplate="{StaticResource CupSizeItemTemplate}" FullModeItemTemplate="{StaticResource CupSizeFullModeItemTemplate}" Grid.Column="1" Grid.Row="0" ExpansionMode="FullScreenOnly" FullModeHeader="Select Collar Size"/>
+                        </Grid>
+
+
+                        <toolkit:ListPicker Foreground="Black"  x:Name="armFemale" ItemTemplate="{StaticResource ArmLengthItemTemplate}" Grid.Column="1" Grid.Row="4" Background="#6BCBCBC6" ExpansionMode="FullScreenOnly" FullModeHeader="Select Weight" FullModeItemTemplate="{StaticResource ArmLengthFullModeItemTemplate}" BorderBrush="Black"/>
+                        <toolkit:ListPicker Foreground="Black" Background="#FFCBCBC6" x:Name="waistFemale" ItemTemplate="{StaticResource WaistSizeItemTemplate}" FullModeItemTemplate="{StaticResource WaistSizeFullModeItemTemplate}" Grid.Column="1" Grid.Row="5" ExpansionMode="FullScreenOnly" FullModeHeader="Select Weight" BorderBrush="Black"/>
+                        <toolkit:ListPicker Foreground="Black" Background="#FFCBCBC6"  x:Name="hipFemale" ItemTemplate="{StaticResource HipSizeItemTemplate}" FullModeItemTemplate="{StaticResource HipSizeFullModeItemTemplate}" Grid.Column="1" Grid.Row="6" ExpansionMode="FullScreenOnly" FullModeHeader="Select Weight" BorderBrush="Black"/>
+
+
+                        <TextBlock Style="{StaticResource PhoneTextNormalStyle}" FontSize="28" HorizontalAlignment="Left" Foreground="Black" TextWrapping="Wrap" Text="Height" VerticalAlignment="Center"/>
+                        <TextBlock Style="{StaticResource PhoneTextNormalStyle}" FontSize="28" HorizontalAlignment="Left" Foreground="Black" Grid.Row="1" TextWrapping="Wrap" Text="Weight" VerticalAlignment="Center"/>
+                        <TextBlock Style="{StaticResource PhoneTextNormalStyle}" FontSize="28" HorizontalAlignment="Left" Foreground="Black" Grid.Row="2" TextWrapping="Wrap" Text="Age" VerticalAlignment="Center"/>
+                        <TextBlock Style="{StaticResource PhoneTextNormalStyle}" FontSize="28"  HorizontalAlignment="Left" Foreground="Black" Grid.Row="3" TextWrapping="Wrap" Text="Cup size" VerticalAlignment="Center"/>
+                        <TextBlock Style="{StaticResource PhoneTextNormalStyle}" FontSize="28" HorizontalAlignment="Left" Foreground="Black" Grid.Row="4" TextWrapping="Wrap" Text="Arm length" VerticalAlignment="Center"/>
+                        <TextBlock Style="{StaticResource PhoneTextNormalStyle}" FontSize="28" HorizontalAlignment="Left" Foreground="Black" Grid.Row="5" TextWrapping="Wrap" Text="Waist size" VerticalAlignment="Center"/>
+                        <TextBlock Style="{StaticResource PhoneTextNormalStyle}" FontSize="28" HorizontalAlignment="Left" Foreground="Black" Grid.Row="6" TextWrapping="Wrap" Text="Hip size" VerticalAlignment="Center"/>
+
+                    </Grid>
+                </ScrollViewer>
+
+            </phone:PivotItem>
+        </phone:Pivot>
+        <Grid Grid.Row="2" Background="#6BCBCBC6">
+            <Button Background="Orange" BorderBrush="Black" Foreground="Black"  x:Name="calculate" Grid.Row="2" Content="Calculate body measurements" Click="calculate_Click_1"/>
+
+        </Grid>
+       
+        <Popup x:Name="popupSetting">
+            <TextBox Width="200" />
+        </Popup>
+    </Grid>
+
+
+
+</phone:PhoneApplicationPage>
